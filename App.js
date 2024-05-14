@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { LinearGradient } from 'expo-linear-gradient';
+//import { LinearGradient } from 'expo-linear-gradient';
 import { StyleSheet, Text, View, TouchableOpacity, Switch, ImageBackground } from 'react-native';
 
 export default function App() {
@@ -191,4 +191,3 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(68, 68, 68, 0.7)',
   },
 });
-
